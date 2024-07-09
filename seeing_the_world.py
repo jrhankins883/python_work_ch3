@@ -1,0 +1,12 @@
+travel = ['washington', 'california', 'alberta', 'nova scotia', 'switzerland']
+print(travel)
+print(sorted(travel))
+print(travel)
+print(sorted(travel, reverse=True))
+print(travel)
+travel.reverse()
+print(travel)
+travel.reverse()
+print(travel)
+travel.sort()
+print(travel)
